@@ -20,7 +20,7 @@ Author: **Huy Dang**
 
 ### Wiring
 
-![alt Wiring](wiring.png)
+![alt Wiring](wiring.jpg)
 
 ## Video Walkthrough
 
